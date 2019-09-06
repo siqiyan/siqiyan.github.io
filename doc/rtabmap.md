@@ -126,4 +126,5 @@ roslaunch rtabmap_ros rtabmap.launch
 ## References
 
 [RTAB-Map](http://introlab.github.io/rtabmap/)
+
 [https://scott-yantek.squarespace.com/research/2018/1/16/rtab-map-setup-with-orbbec-astra-in-ros](https://scott-yantek.squarespace.com/research/2018/1/16/rtab-map-setup-with-orbbec-astra-in-ros)
