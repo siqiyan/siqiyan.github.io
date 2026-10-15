@@ -1,2 +1,8 @@
-theme: jekyll-theme-cayman
 title: Welcome to Siqi's Homepage
+theme: jekyll-theme-cayman
+description: I work on computer vision and robotics
+markdown: GFM
+author: Siqi Yan
+email: siqiyan812@gmail.com
+github_username: siqiyan
+show_downloads: false
