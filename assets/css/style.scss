@@ -1,0 +1,70 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Wider content area */
+
+.wrapper {
+  width: 1100px;
+}
+
+/* Profile image */
+
+header img {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+
+/* Typography */
+
+body {
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+h1 {
+  margin-top: 1.5em;
+}
+
+h2 {
+  margin-top: 1.4em;
+}
+
+/* Project images */
+
+section img {
+  border-radius: 8px;
+}
+
+/* Links */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Horizontal separators */
+
+hr {
+  margin: 2.5rem 0;
+  opacity: 0.25;
+}
+
+/* Mobile */
+
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+  }
+
+  header img {
+    width: 120px;
+    height: 120px;
+  }
+}
