@@ -2,7 +2,10 @@ title: Welcome to Siqi's Homepage
 #theme: jekyll-theme-cayman
 theme: jekyll-theme-minimal
 description: >
-  I work on computer vision and robotics. I like design and build things.
+  I work on computer vision and robotics. I like design and build things.<br><br>
+  <a href="/doc/en_2026_oct_cv_siqi.pdf">CV English ver.</a><br>
+  <a href="/doc/ch_2026_oct_cv_siqi.pdf">CV Chinese ver.</a>
+logo: /assets/img/profile.jpg
 markdown: GFM
 author: Siqi Yan
 email: siqiyan812@gmail.com

@@ -3,13 +3,6 @@ layout: default
 title: Home
 ---
 
-## Resume/CV
-
-[CV English ver.](doc/en_2026_oct_cv_siqi.pdf)
-
-[CV Chinese ver.](doc/ch_2026_oct_cv_siqi.pdf)
-
-
 ## 🤖Project and Demostration
 
 Here are some projects I've been working on.
