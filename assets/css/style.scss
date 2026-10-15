@@ -3,10 +3,19 @@
 
 @import "{{ site.theme }}";
 
-/* Wider content area */
+/* Give the main content most of the desktop width. */
 
 .wrapper {
-  width: 1100px;
+  width: 1200px;
+  max-width: calc(100% - 48px);
+}
+
+header {
+  width: 22%;
+}
+
+section {
+  width: 72%;
 }
 
 /* Profile image */
@@ -61,6 +70,7 @@ hr {
 @media print, screen and (max-width: 960px) {
   .wrapper {
     width: auto;
+    max-width: none;
   }
 
   header img {
