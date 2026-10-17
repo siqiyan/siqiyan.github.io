@@ -9,14 +9,12 @@ Here are some projects I've been working on.
 
 ---
 
-![BananaKit2](/assets/img/bananakit2_family.jpg)
+{% for post in site.posts limit:5 %}
 
-BananaKit2 - A modular Arduino prototyping ecosystem with reusable hardware modules.
+### [{{ post.title }}]({{ Post.url }})
 
-[Github](https://github.com/siqiyan/BananaKit2)
+{{ post.date | date: "%B %d, %Y" }}
 
-## Blog
+{{ post.excerpt }}
 
-[RTAB-Map Installation and Usage](doc/rtabmap.md) 
-
----
+{% end for %}

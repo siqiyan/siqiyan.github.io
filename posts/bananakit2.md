@@ -1,0 +1,9 @@
+---
+layout: post
+title: "BananaKit2 - A modular Arduino prototyping ecosystem with reusable hardware modules"
+date: 2026-10-15
+---
+
+![BananaKit2](/assets/img/bananakit2_family.jpg)
+
+[Github](https://github.com/siqiyan/BananaKit2)
