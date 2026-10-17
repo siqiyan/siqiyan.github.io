@@ -4,9 +4,9 @@ theme: jekyll-theme-minimal
 description: >
   I work on computer vision and robotics. I like design and build things.<br><br>
 
-  Download my CV
-  <a href="/assets/files/en_2026_oct_cv_siqi.pdf">CV English ver.</a><br>
-  <a href="/assets/files/ch_2026_oct_cv_siqi.pdf">CV Chinese ver.</a>
+  Download my CV<br>
+  <a href="/assets/files/en_2026_oct_cv_siqi.pdf">English ver.</a><br>
+  <a href="/assets/files/ch_2026_oct_cv_siqi.pdf">Chinese ver.</a>
 logo: /assets/img/profile.jpg
 markdown: GFM
 author: Siqi Yan

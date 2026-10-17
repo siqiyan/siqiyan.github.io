@@ -11,7 +11,7 @@ Here are some projects I've been working on.
 
 {% for post in site.posts limit:5 %}
 
-### [{{ post.title }}]({{ Post.url }})
+### [{{ post.title }}]({{ post.url }})
 
 {{ post.date | date: "%B %d, %Y" }}
 
