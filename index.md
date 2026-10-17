@@ -17,4 +17,4 @@ Here are some projects I've been working on.
 
 {{ post.excerpt }}
 
-{% end for %}
+{% endfor %}
