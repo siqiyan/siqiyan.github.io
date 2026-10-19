@@ -31,4 +31,4 @@ vehicle nearby, thus it can brake early to reduce the chance of accident.
 ## Paper
 
 To check the full detail see my [original
-paper](https://ualberta.scholaris.ca/items/90413d7a-b9fb-4895-af9f-cf6dc32b531e).
+thesis](https://ualberta.scholaris.ca/items/90413d7a-b9fb-4895-af9f-cf6dc32b531e).
