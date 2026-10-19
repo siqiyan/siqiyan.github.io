@@ -4,7 +4,7 @@ title: "Demonstrate collective perception improving safety"
 date: 2026-10-18
 ---
 
-![Collective Perception Main](/assets/img/collective_perception_main.jpg)
+![Collective Perception Main](/assets/img/collective_perception_main.png)
 
 This post demonstrates the idea of Collective Perception in CARLA simulator.
 Collective perception here works by sensor fusion from multiple vehicles
@@ -16,7 +16,7 @@ spot of the bottom vehicle, but fully visible from the top vehicle. With
 collective perception enabled, both vehicle shares the view to avoid a potential
 traffic accident.
 
-[Scenario0](https://youtu.be/YPdnukJ_96M)
+![Scenario0](https://youtu.be/YPdnukJ_96M)
 
 
 [Scenario1](https://youtu.be/YPdnukJ_96M)
