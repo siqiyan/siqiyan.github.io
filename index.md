@@ -9,7 +9,7 @@ Here are some projects I've been working on.
 
 ---
 
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:10 %}
 
 ### [{{ post.title }}]({{ post.url }})
 
